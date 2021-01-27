@@ -1,2 +1,2 @@
-# Web-API-With-ASP.NET-Core
+# Web API with ASP.NET Core
 Source code for YouTube tutorial How to create a Web API with ASP.NET Core.
